@@ -111,8 +111,8 @@ Ton travail est de rajouter une vérification dans la même condition que `Numbe
 
 Tu devrais modifier le `if` pour rajouter une comparaison entre le nombre et le chiffre ci-dessus. Pour cela, il faut utiliser les opérateurs de comparaison `<` et `>` qui signifient :
 
-- `<` : [plus petit que](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Less_than)
-- `>` : [plus grand que](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Greater_than)
+- `<` : [plus petit que](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Less_than)
+- `>` : [plus grand que](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Greater_than)
 
 Je te laisse choisir le bon...
 
